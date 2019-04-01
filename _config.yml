@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Monster Brain Dev Blog
 tagline:             'Game Dev. Web Dev. Hobbyist.'
 description:         'A personal dev blog of monster brain a.k.a <a href="https://github.com/monsterbrain">Faisal Rasak. Mainly blogs about short solutions, ideas and work in progress stuffs. If time permits.'
-url:                 http://monsterbrain.github.io
-baseurl:             'http://monsterbrain.github.io/'
+url:                 https://monsterbrain.github.io
+baseurl:             'https://monsterbrain.github.io/'
 paginate:            5
 
 # About/contact
