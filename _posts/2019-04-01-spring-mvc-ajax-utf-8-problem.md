@@ -10,7 +10,7 @@ solution here, because many replied that's the solution that worked for them.
 
 here's my code
 ```
-@RequestMapping(value = "getRandomArticle", method = RequestMethod.GET)
+@RequestMapping("getRandomArticle")
 public void getRandomArticle(
 	HttpServletRequest request, HttpServletResponse response) throws IOException {
 
