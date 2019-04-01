@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true // deprecated
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Monster Brain Dev Blog
+tagline:             'Game Dev. Web Dev. Hobbyist.'
+description:         'A personal dev blog of monster brain a.k.a <a href="https://github.com/monsterbrain">Faisal Rasak. Mainly blogs about short solutions, ideas and work in progress stuffs. If time permits.'
 url:                 http://monsterbrain.github.io
 baseurl:             ''
 paginate:            5
