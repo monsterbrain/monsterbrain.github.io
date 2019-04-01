@@ -9,7 +9,7 @@ title:               Monster Brain Dev Blog
 tagline:             'Game Dev. Web Dev. Hobbyist.'
 description:         'A personal dev blog of monster brain a.k.a <a href="https://github.com/monsterbrain">Faisal Rasak. Mainly blogs about short solutions, ideas and work in progress stuffs. If time permits.'
 url:                 https://monsterbrain.github.io
-baseurl:             ''
+baseurl:             
 paginate:            5
 
 # About/contact
