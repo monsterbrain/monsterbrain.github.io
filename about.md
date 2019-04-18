@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About me - Monster Brain
+title: Faisal Rasak (Monster Brain Inc)
 ---
-
-# Faisal Rasak ``` (Monster Brain Inc)```
 
 <p class="message">
    Game Dev. Designer. Android App Dev. Frontend Hobbyist. Unity3D Dev. Occasional Blogger. Creating new things with technology.
