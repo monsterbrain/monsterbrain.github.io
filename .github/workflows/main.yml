@@ -46,4 +46,9 @@ jobs:
           # Indicates if sitemap should be formatted in xml.
           # sitemap-format: # optional, default is xml
           # Space separated list of additional file extensions to include in sitemap.
-          # additional-extensions: # optional, default is 
+          # additional-extensions: # optional, default is
+      - name: Output stats
+        run: |
+          echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+          echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+          echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
