@@ -46,4 +46,4 @@ jobs:
           # Indicates if sitemap should be formatted in xml.
           # sitemap-format: # optional, default is xml
           # Space separated list of additional file extensions to include in sitemap.
-          additional-extensions: # optional, default is 
+          # additional-extensions: # optional, default is 
