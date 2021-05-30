@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing Todo List. Shrinking Time.
+categories: Productivity
 ---
 
 I've been keeping a github repo for the stuffs to do later (read, procrastinate forever :)). The list have been getting bigger and bigger, and the free time seems to be getting smaller and smaller. Time flies so fast. Maybe they are not that priority in my mind right now.
