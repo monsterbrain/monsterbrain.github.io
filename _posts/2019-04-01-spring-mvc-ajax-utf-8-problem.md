@@ -1,3 +1,9 @@
+---
+layout: post
+title: UTF-8 encoding issue in spring MVC Ajax
+categories: SpringMVC
+---
+
 Recently I needed to work with a spring mvc project, with non-english characters (malayalam characters for eg.) The MySQL database table
 was indeed utf-8 by default and we can directly enter the non-english characters in there easily. The problem being the response
 from the controller was being shown as a string of characters like ???.

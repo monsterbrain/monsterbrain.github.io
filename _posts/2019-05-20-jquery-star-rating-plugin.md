@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simple Star Rating Jquery Plugin
+categories: Web
 ---
 
 Stumbled across a small jquery plugin for showing star ratings on github. Decided to expand on it and make a demo page, so that people stumbling across can still find it useful. Thanks to the original author.
