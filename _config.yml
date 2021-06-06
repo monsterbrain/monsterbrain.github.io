@@ -5,7 +5,7 @@ permalink:           /:categories/:title/
 
 # Setup
 title:               Monster Brain Dev Blog
-tagline:             'Game Dev. Web Dev. Hobbyist.'
+tagline:             'Android Dev. Game Dev. Web Hobbyist.'
 description:         'A personal dev blog of monster brain a.k.a <a href="https://github.com/monsterbrain">Faisal Rasak. Mainly blogs about short solutions, ideas and work in progress stuffs. If time permits.'
 url:                 https://monsterbrain.github.io
 baseurl:             
