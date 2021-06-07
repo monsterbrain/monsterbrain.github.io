@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from:
+  - /2019/04/01/spring-mvc-ajax-utf-8-problem/
 title: UTF-8 encoding issue in spring MVC Ajax
 categories: SpringMVC
 ---
