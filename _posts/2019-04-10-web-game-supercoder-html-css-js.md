@@ -1,7 +1,10 @@
 ---
 layout: post
+redirect_from:
+  - /2019/04/10/web-game-supercoder-html-css-js/
 title: Super Coder Web - A Game of Html + Css + Js
 categories: Games
+permalink: /games/web-game-supercoder-html-css-js/
 ---
 
 We are (or I am?) proud to announce yet another experimental and educational game in the beginning of the year 2019. Super Web Coder - A Game of Html + Css + Js, where you arrange the code to get the target website design as shown. Currently only a single demo level is available for playing. Your feedback is greatly appreciated.
